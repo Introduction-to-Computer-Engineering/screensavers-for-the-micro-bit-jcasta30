@@ -137,5 +137,6 @@ On logo down, Screensaver 5 displays a clock that changes to random times using 
 
 ## Demo URL
 Part 1: https://imgur.com/a/a8iSEDE
+
 Part 2: https://imgur.com/a/ipXvSxS
 
