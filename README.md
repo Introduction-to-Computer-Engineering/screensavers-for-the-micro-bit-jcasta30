@@ -109,11 +109,24 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ### SS 1
 
-_[Your description of screensaver 1]_
+On Shake, displays randomly positioned rotating lines like: |/-\|, that are centered at different spots.
 
 ### SS 2 
 
-_[And so on]_
+On tilt left, displays randomly postioned dots, each with their own random brightness: ranging from: 255, 205, 155, 105, 55, or 5. Then, ends with the word "Boom!". 
+
+### SS 3 
+
+On tilt right, displays single, random, vertical waves that start at bottom and flash (waves) up.  
+
+### SS 4 
+
+On logo up, displays random concentric versions of gradient waves, ranging from the three shapes: Circles, squares, or diamonds.  
+
+### SS 5 
+
+On logo down, displays a clock that changes to random times using it's clock hand.
+
 
 ## Demo URL
 
