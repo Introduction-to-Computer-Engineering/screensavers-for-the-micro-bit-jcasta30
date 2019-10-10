@@ -116,23 +116,23 @@ Use button B to wake up the screen.
 
 ### SS 1
 
-On Shake, displays randomly positioned rotating lines like: |/-\|, that are centered at different spots.
+On Shake, Screensaver 1 displays randomly positioned rotating lines like: |/-\|, that are centered at different spots.
 
 ### SS 2 
 
-On tilt left, displays randomly postioned dots, each with their own random brightness: ranging from: 255, 205, 155, 105, 55, or 5. Then, ends with the word "Boom!". 
+On tilt left, Screensaver 2 displays randomly postioned dots, each with their own random brightness: ranging from: 255, 205, 155, 105, 55, or 5. Then, ends with the word "Boom!". 
 
 ### SS 3 
 
-On tilt right, displays single, random, vertical waves that start at bottom and flash (waves) up.  
+On tilt right, Screensaver 3 displays single, random, vertical waves that start at bottom and flash (waves) up.  
 
 ### SS 4 
 
-On logo up, displays random concentric versions of gradient waves, ranging from the three shapes: Circles, squares, or diamonds.  
+On logo up, Screensaver 4 displays random concentric versions of gradient waves, ranging from the three shapes: Circles, squares, or diamonds.  
 
 ### SS 5 
 
-On logo down, displays a clock that changes to random times using it's clock hand.
+On logo down, Screensaver 5 displays a clock that changes to random times using it's clock hand.
 
 
 ## Demo URL
