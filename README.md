@@ -116,7 +116,7 @@ Use button B to wake up the screen.
 
 ### SS 1
 
-On Shake, Screensaver 1 displays randomly positioned rotating lines like: |/-\|, that are centered at different spots.
+On Shake, Screensaver 1 displays randomly positioned rotating lines like: | / - \ |, that are centered at different spots.
 
 ### SS 2 
 
