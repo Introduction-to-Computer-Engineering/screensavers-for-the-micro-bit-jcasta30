@@ -107,6 +107,13 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ## Screensavers
 
+### Controls
+Use button A to put the screen to sleep.
+
+Hold button A for 2 seconds, (while screen is asleep) to activate screensavers (depending on gestures).
+
+Use button B to wake up the screen.
+
 ### SS 1
 
 On Shake, displays randomly positioned rotating lines like: |/-\|, that are centered at different spots.
